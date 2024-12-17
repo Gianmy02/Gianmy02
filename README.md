@@ -9,7 +9,7 @@ I have been coding for 8 years, started with C, then Java, PHP, MySQL and JS. I 
 * 🌍  I'm based in Caserta, Italy
 * ✉️  You can contact me at [gianmarco.24r@gmail.com](mailto:gianmarco.24r@gmail.com)
 * 🚀  I'm currently working on [ChefBook](http://github.com/Gianmy02/ChefBook)
-* 🧠  I'm learning Spring
+* 🧠  I'm learning Spring Framework on Java
 
 ### Skills
 
